@@ -1,0 +1,16 @@
+{
+  "TOKEN": "",
+  "PREFIX": "",
+  "database": "",
+  "token": "",
+  "default_prefix": "",
+  "imdbKey": "",
+  "YOUTUBE_API_KEY": "",
+  "SOUNDCLOUD_CLIENT_ID": "",
+  "QUEUE_LIMIT": 10,
+  "COLOR": "",
+  "youtubeApiKey": "",
+  "ownerID": "",
+  "reportsChannelId": "",
+  "feedBackChannelId": ""
+}
